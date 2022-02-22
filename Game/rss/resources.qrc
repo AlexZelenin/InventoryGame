@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>sounds/apple1.mp3</file>
+	
+	<file>images/Apple.png</file>
+	<file>images/Cherry.png</file>
+	<file>images/Kiwi.png</file>
+	<file>images/Strawberry.png</file>
+	
+	
+</qresource>
+</RCC>

@@ -1,0 +1,8 @@
+
+ROOT_DIR = $$PWD
+
+
+DESTDIR = $$ROOT_DIR/../Inventory
+
+INCLUDEPATH += $$ROOT_DIR/DBInventory
+DEPENDPATH += $$ROOT_DIR/DBInventory
