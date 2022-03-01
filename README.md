@@ -2,7 +2,7 @@
 Test task
 
 ![alt text](https://github.com/AlexZelenin/InventoryGame/blob/main/blob/1.png?raw=true)
-![alt text](https://github.com/AlexZelenin/InventoryGame/blob/main/blob/2.png?raw=true)
+![alt text](https://github.com/AlexZelenin/InventoryGame/blob/main/blob/2_.png?raw=true)
 
 Тестовое задание следующее:
 Инструментарий разработки: QT SDK
