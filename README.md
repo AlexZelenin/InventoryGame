@@ -1,6 +1,8 @@
 # InventoryGame
 Test task
 
+![alt text](https://github.com/AlexZelenin/InventoryGame/blob/1.png?raw=true)
+
 Тестовое задание следующее:
 Инструментарий разработки: QT SDK
 Описание: Приложение представляет собой типичный "игровой инвентарь".
