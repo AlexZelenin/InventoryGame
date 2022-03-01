@@ -1,4 +1,4 @@
-# InventoryGame
+# Inventory Game
 Test task
 
 ![alt text](https://github.com/AlexZelenin/InventoryGame/blob/main/blob/1.png?raw=true)
